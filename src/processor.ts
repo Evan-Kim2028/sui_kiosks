@@ -29,3 +29,5 @@ export function KioskProcessor() {
         processObjectChanges(changes, ctx, "kiosk_object_changes");
       });
   }
+
+  KioskProcessor();
