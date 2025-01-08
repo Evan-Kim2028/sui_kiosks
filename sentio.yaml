@@ -1,0 +1,6 @@
+project: sui_kiosks
+contracts:
+  - chain: sui_mainnet
+    address: "0x2"
+  - chain: sui_mainnet
+    address: "0x1"
